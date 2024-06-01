@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Muhammed Firos</h1>
+<h1 align="center"> I'm Muhammed Firos</h1>
 <h3 align="center">MERN Stack Developer</h3>
 
 <img align="right" alt="Coding" width="300" height="300" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif">
